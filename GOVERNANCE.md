@@ -16,7 +16,7 @@ Achieving maintainer status on an OpenDroneMap project is achieved by contributi
 The definition of "large" is left up to interpretation, but can be loosely explained as "a feature that brings a significant improvement, change or entirely new module into the codebase". 
 For example, fixing a spelling mistake will not be considered a "large" contribution, but building an entire new module or adding localization support will.
 
-To safeguard hijacking of the project from possible bad actors, the "[benevolent dictator](https://github.com/smathermather/)" and the person who made the first commit in the project's git history a final say on whether a contributor can become a maintainer and has the power to revoke maintainer status. In case of disagreement, the person who made the first commit in the project's git history prevails.
+To safeguard hijacking of the project from possible bad actors, the "[benevolent dictator](https://github.com/smathermather/)" and the person who made the first commit in the project's git history have a final say on whether a contributor can become a maintainer and has the power to revoke maintainer status. In case of disagreement, the person who made the first commit in the project's git history prevails.
 
 ## Contributors
 
