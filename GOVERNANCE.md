@@ -24,5 +24,5 @@ Submitting a valid patch, large or small, gives anyone the status of contributor
 
 ## Ownership of OpenDroneMap Logo
 
-The OpenDroneMap logo is a trademarks or registered trademarks of Cleveland Metroparks and/or its affiliates and may not be used without written permission.
+The OpenDroneMap logo is a trademark or registered trademarks of Cleveland Metroparks and/or its affiliates and may not be used without written permission.
 The opendronemap.org domain is also property of Cleveland Metroparks.
