@@ -1,5 +1,7 @@
 # Documents
 
+## This repository is in draft form and does not represent a final governance model for OpenDroneMap
+
 The project has a few (simple) rules.
 
 * [Governance](https://github.com/OpenDroneMap/documents/blob/master/GOVERNANCE.md): Who decides stuff?
