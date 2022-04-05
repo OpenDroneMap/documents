@@ -11,8 +11,9 @@ Some of our trademark names include:
 
 Some of our trademark logos include:
 
- * ![ODM](https://opendronemap.org/wp-content/uploads/2018/07/odm-logo-64x64.png)
- * ![WebODM](https://opendronemap.org/wp-content/uploads/2018/07/webodm-icon-64x64.png)
+ ![ODM](https://opendronemap.org/wp-content/uploads/2018/07/odm-logo-64x64.png)
+ 
+ ![WebODM](https://opendronemap.org/wp-content/uploads/2018/07/webodm-icon-64x64.png)
 
 However, that is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
 
