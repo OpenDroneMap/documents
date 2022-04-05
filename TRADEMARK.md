@@ -15,7 +15,7 @@ Some of our trademark logos include:
  
  ![WebODM](https://opendronemap.org/wp-content/uploads/2018/07/webodm-icon-64x64.png)
 
-However, that is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
+However, this is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
 
 If you want to report misuse of an OpenDroneMap trademark, please contact us via https://uav4geo.com/contact
 
