@@ -17,7 +17,7 @@ Some of our trademark logos include:
 
 However, this is not a complete list of our names, logos, and brand features, all of which are subject to these guidelines.
 
-If you want to report misuse of an OpenDroneMap trademark, please contact us via https://uav4geo.com/contact
+If you want to report misuse of an OpenDroneMap trademark, please contact us via https://opendronemap.org/webodm/contact/
 
 ## When do I need specific permission to use an OpenDroneMap trademark?
 
@@ -28,7 +28,7 @@ You may do the following without receiving specific permission from OpenDroneMap
  * Use OpenDroneMap wordmarks to explain that your software is based on OpenDroneMap's open source code, or is compatible with OpenDroneMap's software.
  * Describe a social media account, page, or community in accordance with the [Social Media Guidelines](#social-media-guidelines).
 
-All other uses of an OpenDroneMap trademark require our prior written permission. This includes any use of a OpenDroneMap trademark in a domain name. Contact us at https://uav4geo.com/contact for more information.
+All other uses of an OpenDroneMap trademark require our prior written permission. This includes any use of a OpenDroneMap trademark in a domain name. Contact us at https://opendronemap.org/webodm/contact/ for more information.
 
 ## When allowed, how should I use an OpenDroneMap trademark?
 
