@@ -12,6 +12,10 @@ Take a look at the list of open issues marked as `Help wanted` or `Good first is
 
 You must adheres to the [Contributor Covenant](https://github.com/OpenDroneMap/documents/blob/master/CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.
 
+## Use of AI
+
+Responsible use of AI tools to increase productivity and facilitate contributions is generally allowed, as long as contributions are carefully reviewed and tested by the contributor and each contribution generated partially or fully using AI clearly states so.
+
 ## Scope
 
 This contributing document shall apply to all OpenDroneMap projects, unless a project defines its own separate contributing document.
