@@ -14,7 +14,7 @@ You must adheres to the [Contributor Covenant](https://github.com/OpenDroneMap/d
 
 ## Use of AI
 
-Responsible use of AI tools to increase productivity and facilitate contributions is generally allowed, as long as contributions are carefully reviewed and tested by the contributor and each contribution generated partially or fully using AI clearly states so.
+Use of AI tools to increase productivity and facilitate contributions is generally discouraged. Prompt driven pull requests are not allowed. Limited, responsible assistive use may be acceptable but requires disclosure and discussion.
 
 ## Scope
 
