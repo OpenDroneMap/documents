@@ -5,7 +5,7 @@
 The project has a few (simple) rules.
 
 * [Governance](https://github.com/OpenDroneMap/documents/blob/main/GOVERNANCE.md): Who decides stuff?
-* [Code of Conduct](https://github.com/OpenDroneMap/documents/blob/main/CONDUCT.md): We expect people to be nice to each other.
+* [Code of Conduct](https://github.com/OpenDroneMap/documents/blob/main/CONDUCT.md): Community norms are how we structure healthy interactions.
 * [Contributing](https://github.com/OpenDroneMap/documents/blob/main/CONTRIBUTING.md): How do you contribute code?
-* [Collective Code Construction Contract](https://github.com/OpenDroneMap/documents/blob/main/C4.md): A few rules contributor should follow for semi-sane project management.
+* [Collective Code Construction Contract](https://github.com/OpenDroneMap/documents/blob/main/C4.md): A few rules contributor should follow for project management.
  * [Trademark Guidelines](https://github.com/OpenDroneMap/documents/blob/main/TRADEMARK.md): Rules for using our trademark. 
